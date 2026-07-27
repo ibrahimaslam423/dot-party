@@ -26,12 +26,13 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: red;
+  color: blue;
 }
 
 h2 {
-  font-size: 38px;
+  font-size: 34px;
   font-weight: 1000;
+  color: blue;
   display: flex;
   justify-content: center;
   align-items: center;
