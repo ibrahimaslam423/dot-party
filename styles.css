@@ -55,11 +55,11 @@ a {
 }
 
 a:visited {
-  color: purple; 
+  color: red; 
 }
 
 a:active {
-  color: red; 
+  color: lightgreen; 
 }
 
 iframe {
