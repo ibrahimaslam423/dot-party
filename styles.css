@@ -97,3 +97,7 @@ a:active {
     max-width: 800px;
   }
 }
+
+.address {
+  background-color: none;
+}
